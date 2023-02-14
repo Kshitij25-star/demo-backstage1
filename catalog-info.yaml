@@ -10,7 +10,7 @@ metadata:
     circleci.com/project-slug: github/example-org/artist-website
   tags:
     - java
-    - node.js
+    - node
     - html
     - yaml
   links:
