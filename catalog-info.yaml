@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Search functionality
+  name: Search-functionality
   description: Provides search functionality
   labels:
     example.com/custom: custom_label_value
